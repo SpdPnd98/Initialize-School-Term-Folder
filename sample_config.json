@@ -1,0 +1,9 @@
+{
+  "name": "CStest",
+  "generate_weeks": 13,
+  "child" : [
+    {
+        "name": "references"
+    }
+ ]
+}
