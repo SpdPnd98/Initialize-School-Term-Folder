@@ -40,7 +40,7 @@ Please refer to the sample given in this repository.
 
 3. Run the python script with the following commands
 ```
-python3 Z-create_directories.py CONFIG_1.json CONFIG_2.sjon ...
+python3 Z-create_directories.py CONFIG_1.json CONFIG_2.json ...
 ```
 You can check the contents of each json before the creation of the directory. Press `Y` to agree.
 
